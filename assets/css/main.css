@@ -97,22 +97,16 @@ input, select, textarea {
 	body {
 		background: #1b1f22;
 	}
-		body.is-preload *:before{
-			-moz-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-rotate 0.75s infinite linear !important;
-			-webkit-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-rotate 0.75s infinite linear !important;
-			-ms-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-rotate 0.75s infinite linear !important;
-			animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-rotate 0.75s infinite linear !important;
-			z-index: 100001;
-		}
-		body.is-preload *, body.is-preload *:after {
-			-moz-animation: none !important;
-			-webkit-animation: none !important;
-			-ms-animation: none !important;
-			animation: none !important;
-			-moz-transition: none !important;
-			-webkit-transition: none !important;
-			-ms-transition: none !important;
-			transition: none !important;
+
+		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
+
+			background: url('images/loader.gif') no-repeat center center;
+			position: absolute;
+			top: 0;
+			left: 0;
+			height: 100%;
+			width: 100%;
+			z-index: 9999999;
 		}
 
 /* Type */
