@@ -97,8 +97,14 @@ input, select, textarea {
 	body {
 		background: #1b1f22;
 	}
-
-		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
+		body.is-preload *:before{
+			-moz-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-rotate 0.75s infinite linear !important;
+			-webkit-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-rotate 0.75s infinite linear !important;
+			-ms-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-rotate 0.75s infinite linear !important;
+			animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-rotate 0.75s infinite linear !important;
+			z-index: 100001;
+		}
+		body.is-preload *, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
 			-ms-animation: none !important;
@@ -1420,8 +1426,6 @@ input, select, textarea {
 			-webkit-filter: blur(0.125rem);
 			-ms-filter: blur(0.125rem);
 			filter: blur(0.125rem);
-			animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-rotate 0.75s infinite linear !important;
-			z-index: 100001;
 		}
 
 			body.is-preload #header > * {
