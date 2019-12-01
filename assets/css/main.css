@@ -99,12 +99,13 @@ input, select, textarea {
 	}
 
 		body.is-preload *:before{
-			background: url('loader.gif') no-repeat center center;
+			background: url('loader.webp') no-repeat center center;
+			background-blend-mode: multiply;
 			position: absolute;
 			top: 0;
 			left: 0;
-			height: 30%;
-			width: 30%;
+			height: 100%;
+			width: 100%;
 			z-index: 9999999;
 		}
 		body.is-preload *, body.is-preload *:after {
