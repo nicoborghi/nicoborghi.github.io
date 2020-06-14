@@ -761,7 +761,7 @@ input, select, textarea {
 			max-width: 480px;
 			max-height: 360px;
 			width: 48%;
-			background: #3085a3;
+			background: #000000;
 			text-align: center;
 			cursor: pointer;
 		}
@@ -897,7 +897,7 @@ input, select, textarea {
 		-webkit-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 	}
-	
+
 	/*---------------*/
 	/***** Romeo *****/
 	/*---------------*/
@@ -915,7 +915,7 @@ input, select, textarea {
 	}
 
 	figure.effect-romeo:hover img {
-		opacity: 0.6;
+		opacity: 0.3;
 		-webkit-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 	}
