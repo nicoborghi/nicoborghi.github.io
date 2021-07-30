@@ -10,6 +10,16 @@
 
 		gtag('config', 'UA-153586117-1');
 		</script>
+		<script type="text/javascript">
+			<!--
+			var arxiv_authorid="0000-0002-2889-8997";
+			var arxiv_format="arxiv";
+			var arxiv_max_entries=0;       //show all articles
+			var arxiv_includeComments=1;   //do not show comments (default is 1)
+			var arxiv_includeSubjects=0;
+			//--></script>
+		<script type="text/javascript" src="http://arxiv.org/js/myarticles.js"></script>
+
 		<title>Nicola Borghi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -64,14 +74,26 @@
 
 
 
-								<blockquote>Such website  is part of my learning experience and therefore it is conceived as a work in progress, subject to continuous editing and open to any feedback that you may provide. Make sure to visit the <a href="gastronomy.html">G-Astronomy</a> section!</blockquote>
+								<blockquote>Such website is part of my learning experience and therefore it is conceived as a work in progress, subject to continuous editing and open to any feedback that you may provide. Make sure to visit the <a href="gastronomy.html">G-Astronomy</a> section!</blockquote>
 							</article>
 
-						<!-- Work -->
+						<!-- Research -->
 							<article id="research">
 								<h2 class="major">Research</h2>
-								<span class="image"><img src="images/pug.png" alt=""/></span>
+
+								<h3 class="major">Cosmic chronometers</h3>
+								
+								<span class="image main"><img src="images/cc.svg" alt="" width="500"/></span>
+								<p align="justify"> Massive and passive galaxies can be used as cosmic chronometers to study the expansion history of the Universe. In particular, by studying their differential aging over different cosmic epochs it is possible to obtain direct measurements of the Hubble parameter, H(z) (<a href="https://iopscience.iop.org/article/10.1086/340549" target="_blank" >Jimenez & Loeb, 2002</a>). These measurements are cosmological-model independent! However, to obtain robust differential age measurements it is crucial to break internal degeneracies between stellar population parameters (e.g. age and chemical content). This can be achieved with deep spectroscopic data.
+								</p>
+								<!-- <span class="image"><img src="images/pug.png" alt=""/></span> -->
+
 								<p>...</p>
+								<hr />
+								<h3 class="major">Articles</h3>
+								<div id="arxivfeed">[Loading myarticles...]</div>
+
+
 							</article>
 
 
@@ -546,6 +568,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
 
 	</body>
 </html>
