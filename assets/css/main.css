@@ -3032,6 +3032,14 @@ input, select, textarea {
 
 		}
 
+	
+	#fixedbutton {
+		width:100px;
+		height:100px;
+		position:fixed;
+		top:3rem;
+		left:5em;	
+	}
 /* Header */
 
 	#header {
@@ -3329,6 +3337,24 @@ input, select, textarea {
 		max-width: 100%;
 		z-index: 3;
 	}
+
+		#main recipebox {
+			-moz-transform: translateY(0.25rem);
+			-webkit-transform: translateY(0.25rem);
+			-ms-transform: translateY(0.25rem);
+			transform: translateY(0.25rem);
+			-moz-transition: opacity 0.325s ease-in-out, -moz-transform 0.325s ease-in-out;
+			-webkit-transition: opacity 0.325s ease-in-out, -webkit-transform 0.325s ease-in-out;
+			-ms-transition: opacity 0.325s ease-in-out, -ms-transform 0.325s ease-in-out;
+			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
+			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
+			position: relative;
+			width: 50rem;
+			max-width: 100%;
+			background-color: #1C1E21;
+			border-radius: 4px;
+			opacity: 1;
+		}
 
 		#main article {
 			-moz-transform: translateY(0.25rem);
