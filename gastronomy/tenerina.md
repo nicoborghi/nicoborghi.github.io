@@ -23,7 +23,7 @@ Dark chocolate may contain 45-90% cocoa solids (>70% when 'extra dark'), the res
 
 2. Beat half of the sugar with the egg yolks until creamy, then sift the flour into the bowl, and mix again until smooth. Add the chocolate and butter mixture and beat it for few seconds until smooth. 
 
-3. Beat the other half of the sugar with the egg whites like when making meringue [📰🇮🇹][2]. *Do not add salt! It destabilizes the foam!*. Incorporate it gently to the mixture.
+3. Beat the other half of the sugar with the egg whites like when making meringue [📰🇮🇹][3]. *Do not add salt! It destabilizes the foam!*. Incorporate it gently to the mixture.
 
 
 4. Pour and flatten the dough into a cake pan. It is recommended to use a Ø 24 cm *springform* pan. Bake it for 25 – 30 min at 170°C, fan off. When completely cool, add icing sugar.
