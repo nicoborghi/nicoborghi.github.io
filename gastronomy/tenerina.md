@@ -30,7 +30,7 @@ Dark chocolate may contain 45-90% cocoa solids (>70% when 'extra dark'), the res
 
 
 ## Discussion
-TBD.
+ - Sofia C. (2021, priv. comm.) points out that milk is not part of the "original recipe". My argument here is that with <3% in mass, the overall flavor should not be significantly impacted and is of second-order importance with respect to the choice of "good" ingredients. 
 
 
 <!-- ## References -->
