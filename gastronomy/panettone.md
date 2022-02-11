@@ -8,8 +8,18 @@ Panettone is the dessert that Italian astrophysicists love the most to explain t
 TBD
 
 
-## Method
-TBD
+## Mehod
+### First Dough
+1) 600g strong flour (high W~380)
+2) &nbsp; 30g powdered sourdough
+3) 250g warm water (30°C)
+4) 125g butter
+5) &nbsp; 90g sugar + 125g egg yolk
+6) 125g butter
+7) &nbsp; 90g sugar + 125g egg yolk
+
+
+Mix 1+2 and then 3, so that sugar doesn't "cook" the yolks (by denaturating its proteins). Add 4 and mix until a gluten mesh is formed (~20 min).
 
 
 ## Discussion
