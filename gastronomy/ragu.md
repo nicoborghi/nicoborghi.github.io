@@ -53,3 +53,8 @@ Optional: tomato sauce, laurel
 ## Discussion
 TBD
 
+
+
+<!-- ## References -->
+[1]: https://www.pellegrinoartusi.it/87-maccheroni-alla-bolognese/
+[2]: https://books.google.it/books/about/La_Scienza_della_Carne.html?id=IcWnDQAAQBAJ&redir_esc=y
