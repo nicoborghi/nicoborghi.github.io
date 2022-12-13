@@ -2,7 +2,7 @@
 
 Tenerina is a dark chocolate cake typical of the province of Ferrara. Known since 1900s as Montenegrina Pie, it has been created for Elena Petrovich, queen of Montenegro, wife of Vittorio Emanuele II the King of Italy [📰][1]. 
 
-<img src="images/tenerina.jpg">
+<img src="images/tenerina.jpg" alt="Photo of a Tenerina">
 
 ## Ingredients
 The following table gives amounts to serve 10 (not too hungry) people. Mass: 400g. Calories: ≈2.2 kcal.

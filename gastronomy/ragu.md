@@ -6,7 +6,7 @@ Ragù (alla bolognese) is one of the most renowned sauces in Italian cuisine. In
 
 From a scientific point of view, a good searing (Maillard reaction) and a long cooking time (to dissolve the collagen) are essential. Usually, ragù is prepared in large quantities (>1 kg) and then put into the blast chiller for later consumption.
 
-<img src="images/ragu.jpg">
+<img src="images/ragu.jpg" alt="A pot full of ragu">
 
 
 

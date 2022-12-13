@@ -2,7 +2,7 @@
 
 Panettone is the dessert that Italian astrophysicists love the most to explain the expansion of the Universe. As for the Universe, the expansion of the Panettone is a mess to describe and usually requires some fine-tuning to obtain the final product. Here space-time is made out of gluten-egg-butter mixture (clusters and filaments), raisins/chocolate chips/candied fruit (visible matter), alveoli (voids), and yeast (dark energy).
 
-<img src="images/panettone.jpg">
+<img src="images/panettone.jpg" alt="Photo of a Panettone">
 
 ## Ingredients
 TBD

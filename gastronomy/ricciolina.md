@@ -2,7 +2,7 @@
 
 Ricciolina - better known as Torta di Tagliatelle (Noodles Cake) - is a sweet almond cake typical  dark chocolate cake typical of the province of Ferrara. Known since 1900s as Montenegrina Pie, it has been created for Elena Petrovich, queen of Montenegro, wife of Vittorio Emanuele II the King of Italy [📰][1]. 
 
-<img src="images/ricciolina.jpg">
+<img src="images/ricciolina.jpg" alt="Photo of a Ricciolina">
 
 ## Ingredients and Method
 The following tables give amounts to serve 10 (not too hungry) people. Mass: 400g. Calories: ≈2.2 kcal.
