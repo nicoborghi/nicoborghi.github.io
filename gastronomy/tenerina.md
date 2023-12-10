@@ -10,6 +10,7 @@ The following table gives amounts to serve 10 (not too hungry) people. Mass: 400
 | Ingredient  | Q.ty (g)  | Norm. w.r.t. chocolate |
 |--|------------------------|------------------------|
 | Dark chocolate    | 200 | 1x     |
+| Sugar        | 200 | 1x     |
 | Eggs (3x)    | 125 | 0.625x |
 | Butter       | 100 | 0.5x   |
 | Flour        | 50  | 0.25x  |
