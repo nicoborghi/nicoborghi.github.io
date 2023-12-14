@@ -48,12 +48,10 @@
 						<nav>
 							<ul>
 								<li><a href="#intro">About</a></li>
-								<li><a href="#research">Research</a></li>
+								<li><a href="#research">Research<sup style="color: rgb(128, 186, 240); vertical-align: top;">new</sup></a></li>
 								<li><a href="#books">Books<sup style="color: lightcoral; vertical-align: top;">new</sup></a></li>
 								<li><a href="#outreach">Outreach</a></li>
 								<li><a href="gastronomy.html">G-Astronomy</a></li>
-								<!-- <li><a href="#contact">Contact</a></li> -->
-								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
 						
@@ -78,8 +76,6 @@
 								<p>In a nearby town, Cento, I attended the Scientific High School ISIT - Bassi Burgatti. Here I met Sandro Zannarini, professor of physics. It was thanks to him that my interest in astronomy exponentially grew. He persuaded me to participate in Italian Astronomy Olympiads and with his teachings I managed to reach the national stage. I also developed a strong passion for the most “hands-on” aspects of Astronomy and I decided to invest in the first proper telescope: Celestron CPC 800. Being unsuitable for astrophotography I used (and still use) it for <a href="#outreach" >outreach events</a>. </p>
 								<p></p>
 
-
-
 								<blockquote>Such website is part of my learning experience and therefore it is conceived as a work in progress, subject to continuous editing and open to any feedback that you may provide. Make sure to visit the <a href="gastronomy.html">G-Astronomy</a> section!</blockquote>
 							</article>
 
@@ -89,10 +85,25 @@
 
 								<p align="justify">I work in the field of observational cosmology with expertise in gravitational waves and galaxy evolution. My research focuses on investigating the expansion history of the Universe with emerging probes. Currently, I am a postdoctoral researcher at the University of Bologna working with <a href="https://www.unibo.it/sitoweb/michele.moresco/" target="_blank">Michele Moresco</a>. I am also part of the <a href="https://www.einsteintelescope.science/" target="_blank">Einstein Telescope</a> collaboration and <a href="https://www.euclid-ec.org/" target="_blank">Euclid</a> consortium.
 								</p>
-								<br>
+								
+								<div class="container">
+									<div class="row" style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap">
+									  <div class="col-sm-4"><a href="#GW"><i class="fas fa-wave-square"></i> GW cosmology</a></div>
+									  <div class="col-sm-4"><a href="#CC"><i class="fas fa-clock"></i> Cosmic Chronometers</a></div>
+									  <div class="col-sm-4"><a href="#SPop"><i class="fas fa-clock"></i> Stellar Populations</a></div>
+									</div>
+									<br>
+									<div class="row" style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap">
+									  <div class="col-sm-4"></div>
+									  <div class="col-sm-4"><a href="#code"><i class="fas fa-code"></i> Code</a></div>
+									  <div class="col-sm-4"><a href="#papers"><i class="fas fa-file"></i> Papers</a></div>
+									  <div class="col-sm-4"></div>
+									</div>
+								  </div>
+								<br><br>
 
 
-								<h3 class="major">Gravitational-wave Cosmology</h3>
+								<h3 class="major" id="GW" style="margin-bottom: 1;">Gravitational-wave Cosmology<sup style="color: rgb(128, 186, 240); vertical-align: top;"> new</sup></h3>
 								<p align="justify" style="margin-bottom: 0;">Gravitational waves (GW) produced from compact binaries can be used as <i>standard sirens</i>, as they provide a direct measurement of the luminosity distance requiring no additional calibrations (<a href="https://www.nature.com/articles/323310a0" target="_blank" >Schutz, 1986</a>). Unfortunately, determining redshift from current GW data alone is not possible because of its inherent degeneracy with binary masses, therefore external information is required to provide cosmological constraints.</p>
 								
 								<div class="row" style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap">
@@ -101,25 +112,59 @@
 									</div>
 									<div class="col-6 col-12-small">
 										<p align="justify" style="margin-bottom: 0;">
-										In my research, I am exploring how this can be achieved using a statistical approach based on the cross-correlation of GW signals with galaxy catalogs. This method has a great potential with upcoming and future GW detectors and deep galaxy surveys, as it can map the luminosity-distance relation up to high redshift, z~2. In Borghi et al. (2023) we investigated the impact of galaxy redshift uncertainties in a joint cosmological and astrophysical inference of the BBH population simulated for LVK O4 and O5. 
-										</p>
+										In my research, I am exploring how this can be achieved using a statistical approach based on the cross-correlation of GW signals with galaxy catalogs. This method has a great potential with upcoming and future GW detectors and deep galaxy surveys, as it can map the luminosity-distance relation up to high redshift, z~2. In Borghi et al. (2023) we investigated the impact of galaxy redshift uncertainties in a joint cosmological and astrophysical inference of the BBH population simulated for LVK O4 and O5.</p>
 									</div>
 								</div>
 								<p>We are currently extending the analysis to understand the impact of galaxy properties.</p>
-
 								<br>
 
 
-								<h3 class="major">Cosmic chronometers</h3>
-								
+								<h3 class="major" id="CC">Cosmic chronometers</h3>
 								<span class="image main"><img src="images/cc.svg" alt="Cosmic Chronometers: the Age-z diagram" width="500"/></span>
-								<p align="justify"> Massive and passive galaxies can be used as cosmic chronometers to study the expansion history of the Universe. In particular, by studying their differential aging over different cosmic epochs it is possible to obtain direct measurements of the Hubble parameter, H(z) (<a href="https://iopscience.iop.org/article/10.1086/340549" target="_blank" >Jimenez & Loeb, 2002</a>). These measurements are cosmological-model independent! However, to obtain robust differential age measurements it is crucial to break internal degeneracies between stellar population parameters (e.g. age and chemical content). In my research, I explored how this can be achieved with deep spectroscopic data.
-								</p>
-								<!-- <span class="image"><img src="images/pug.png" alt=""/></span> -->
+								<p align="justify">Massive and passive galaxies can be used as cosmic chronometers to study the expansion history of the Universe. In particular, by studying their differential aging over different cosmic epochs it is possible to obtain direct measurements of the Hubble parameter, H(z) (<a href="https://iopscience.iop.org/article/10.1086/340549" target="_blank" >Jimenez & Loeb, 2002</a>). These measurements are cosmological-model independent! However, to obtain robust differential age measurements it is crucial to break internal degeneracies between stellar population parameters (e.g. age and chemical content). In my research, I explored how this can be achieved with deep spectroscopic data. In particular, in <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ac3fb2/" target="_blank" >Borghi et al. 2022b</a>, we obtained a new measurement of H(z) at z~0.7 by using specific spectral features to constrain the differential aging of passive galaxies selected in the LEGA-C survey. </p>
+								<br>
+								
+								<h3 class="major" id="SPop">Stellar Populations</h3>
+								<span class="image main"><img src="images/stellarpopfit.png" alt="Stellar Populations: spectral features" width="500"/></span>
+								<p align="justify">I have always been fascinated by how much we can learn about the stellar populations in galaxies by studying their integrated light spectra, despite all the complications coming from modelling stellar evolution and inherent degeneracies between the astrophysical parameters. In my research, I have taken advantage of the publicly available LEGA-C spectroscopic survey to measure in detail the stellar population properties of individual massive and passive galaxies at z~0.7 (<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac3240/" target="_blank" >Borghi et al. 2022a</a>). In this process, I contributed to develop <a href="#pylick">pyLick</a>, a Python code to measure spectral features, which I fitted to stellar population models to infer galaxy properties (namely age, metallicity [Z/H], and alpha-enhancements [alpha/Fe]). In <a href="https://iopscience.iop.org/article/10.3847/1538-4365/acbc77/" target="_blank">Jiao et al. 2023</a> and <a href="https://doi.org/10.1051/0004-6361/202346992" target="_blank">Tomasetti et al. 2023</a> we extended the study by using the full-spectral-fitting tecnique.</p>
+								<br>
 
-								<p></p>
-								<hr />
-								<h3 class="major">Articles</h3>
+								<h3 class="major" id="code">Code</h3>
+								<p align="justify">Here are some freely available tools, which I have developed for my research.</p>
+
+								<div class="row" style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap">
+									<div class="col-6 col-12-small" id="pylick">
+										<p align="justify" style="margin-bottom: 0;"><b>CHIMERA</b> (Combined Hierarchical Inference Model for Electromagnetic and gRavitational-wave Analysis), is a flexible Python code to analyze standard sirens with galaxy catalogs, allowing for a joint fitting of the cosmological and astrophysical population parameters within a Hierarchical Bayesian Inference framework.</p>
+									</div>
+									<div class="col-6 col-12-small">
+										<span class="main"><img src="images/CHIMERA_logoNB2_dark.png" alt="CHIMERA logo" width="350"/></span>
+									</div>
+									<div class="row" style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap">
+										<div class="col-sm-4"></div>
+										<div class="col-sm-4"><a href="https://github.com/CosmoStatGW/CHIMERA" target="_blank"><i class="icon brands fa-github"></i> Repository</a></div>
+										<div class="col-sm-4"><a href="https://chimera-gw.readthedocs.io/" target="_blank"><i class="fas fa-book"></i> Documentation</a></div>
+										<div class="col-sm-4"><a href="https://pypi.org/project/chimera-gw/" target="_blank"><i class="icon brands fa-python"></i> PyPI</a></div>
+										<div class="col-sm-4"></div>
+									  </div>
+								</div>
+								<hr>
+								<div class="row" style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap">
+									<div class="col-6 col-12-small" id="pylick">
+										<p align="justify" style="margin-bottom: 0;"><b>pyLick</b> is Python tool to measure spectral indices from galaxy spectra. Currently, ~80 indices from the near-UV to the near-IR are included. New indices can be easily introduced. The uncertainties are evaluated using the signal-to-noise method proposed by Cardiel et al. (1998). The code also includes useful plotting routines.</p>
+									</div>
+									<div class="col-6 col-12-small">
+										<span class="main"><img src="images/pylick_logoNB.png" alt="PyLick logo" width="350"/></span>
+									</div>
+									<div class="row" style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap">
+										<div class="col-sm-4"></div>
+										<div class="col-sm-4"><a href="https://gitlab.com/mmoresco/pylick/-/tree/develop" target="_blank"><i class="icon brands fa-gitlab"></i> Repository</a></div>
+										<div class="col-sm-4"><a href="https://pylick.readthedocs.io/en/develop/index.html" target="_blank"><i class="fas fa-book"></i> Documentation</a></div>
+										<div class="col-sm-4"></div>
+									  </div>
+								</div>
+								<br><br><br>
+								
+								<h3 class="major" id="papers">Articles</h3>
 								<div id="arxivfeed">[Loading myarticles...]</div>
 
 
