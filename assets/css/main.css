@@ -3486,3 +3486,70 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+
+
+
+
+		#btn {
+			padding: 0;
+			margin: 0;
+			box-sizing: border-box;
+		}
+		
+		#btn.body {
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 20px;
+		}
+		
+		#btn.content-container {
+			background-color: #fff;
+			color: #333;
+			padding: 20px 150px;
+		}
+		
+		#btn.h1 {
+			font-size: 32px;
+			margin: 20px 0;
+		}
+		
+		#btn.h2 {
+			font-size: 26px;
+		}
+		
+		#btn.hr {
+			margin: 40px 0;
+		}
+		
+		#btn.p {
+			margin-bottom: 30px;
+			line-height: 1.4em;
+			text-align: justify;
+		}
+		
+		#back-to-top-btn {
+			display: none;
+			position: fixed;
+			bottom: 20px;
+			right: 20px;
+			font-size: 26px;
+			width: 60px;
+			height: 60px;
+			background-color: #ffffff00;
+			color: #333;
+			cursor: pointer;
+			outline: none;
+			border: 3px solid #333;
+			border-radius: 50%;
+			transition: background-color, color 0.2s ease;
+			z-index: 9999;
+		}
+		
+		#back-to-top-btn:hover,
+		#back-to-top-btn:focus {
+			background-color: #333;
+			color: #fff;  
+		}
+		
+
+		
