@@ -1,6 +1,6 @@
 # Gaufres liégeoises - Liège Waffles
 
-Gaufres liégeoises are the best gaufres, there is no doubt about it. For this recipe I cannot provide you any original or traditional insight, so I will take advantage of OpenAI's o1 model to guide you into the magic of gaufres liégeoises. You can find the full conversation [here](https://chatgpt.com/share/6767fd8b-ad5c-8001-990c-9e9c0fe74153).
+Gaufres liégeoises are the best gaufres, there is no doubt about it. For this recipe I cannot provide any original or traditional insight, so I will take advantage of OpenAI's o1 model to guide you into the magic of gaufres liégeoises. You can find the full conversation [here](https://chatgpt.com/share/6767fd8b-ad5c-8001-990c-9e9c0fe74153).
 
 *Waffles* trace their origin back to medieval Europe, where grain-based batters were baked between metal plates. By the 17th and 18th centuries, they became popular across Belgium, France, and the Netherlands in various shapes and flavors.
 
@@ -56,7 +56,7 @@ Achieving the perfect Gaufres Liégeoises requires careful attention to techniqu
 
 
 ## Interactive Recipes
-Recipes from different online sources sorted by butter/total weight ratio. References provided below.
+Recipes from different online sources sorted by butter/total weight ratio. References provided below. Desktop mode recommended.
 
 👉 Press once to select a recipe, twice to deselect it. 
 
