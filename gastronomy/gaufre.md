@@ -16,10 +16,10 @@ The following is a "median" recipe obtained from a compilation of sources. See t
 | Flour                    | 200       | 1                  |
 | Butter                   | 100       | 0.5                |
 | Milk                     | 100       | 0.5                |
-| Eggs                     | 50 (~1x)  | 0.4                |
 | Pearl sugar              | 100       | 0.5                |
-| Sugar (granulated/brown) | 10        | 0.05               |
+| Eggs                     | 50 (~1x)  | 0.4                |
 | Yeast: fresh (dry)       | 15 (~5)   | 0.08 (0.01)        |
+| Sugar (granulated/brown) | 10        | 0.05               |
 | Salt                     | 2         | 0.01               |
 Optional: vanilla, honey, apples, cinnamon.
 
@@ -56,9 +56,9 @@ Achieving the perfect Gaufres Liégeoises requires careful attention to techniqu
 
 
 ## Interactive Recipes
-Recipes from different online sources sorted by butter/total weight ratio. References provided below. Desktop mode recommended.
+Recipes from different online sources sorted by butter/total weight ratio. References provided below.
 
-👉 Press once to select a recipe, twice to deselect it. 
+👉 Press once to select a recipe, twice to deselect it. Desktop mode recommended.
 
 <iframe src="gaufre-plotly-cdn.html" frameborder="0" width="100%" height="710" scrolling="no" style="border:none;color-scheme: normal !important"></iframe>
 
