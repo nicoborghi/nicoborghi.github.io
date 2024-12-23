@@ -9,7 +9,7 @@ Gaufres liégeoises are the best gaufres, there is no doubt about it. For this r
 <img src="images/gaufres.jpg" alt="Photo of a Liege Gaufre">
 
 ## Recipe
-The following is a "median" recipe obtained from a compilation of sources. See the interactive plot [below](#method) for more details.
+The following is a "median" recipe obtained from a compilation of sources. See the interactive plot [below](#interactive-recipes) for more details.
 
 | Ingredient               | Q.ty (g)  | Norm. w.r.t. flour |
 |--------------------------|-----------|--------------------|
