@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-98KZVMB4NC"></script>
@@ -32,6 +32,25 @@
       <div>
         <a href="../index.html" class="button icon solid fa-home">Home</a>
       </div>
+
+      <div id="cookie-banner">
+        <p>This website uses cookies and analytics to improve your experience. <a href="/privacy-policy.html" target="_blank" >Learn more</a></p>
+        <button id="accept-cookies" class="secondary">Ok</button>
+      </div>
+  
+      <script>
+        // Check if the user has already accepted cookies
+        if (localStorage.getItem('cookiesAccepted') === 'true') {
+        document.getElementById('cookie-banner').style.display = 'none';
+        }
+  
+        // Handle cookie acceptance
+        document.getElementById('accept-cookies').addEventListener('click', function() {
+        localStorage.setItem('cookiesAccepted', 'true');
+        document.getElementById('cookie-banner').style.display = 'none';
+        });
+      </script>
+
       <p></p>
 
       <h1 class="major">G-Astronomy</h1>  

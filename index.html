@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 	<head>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta charset="utf-8">
 
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-98KZVMB4NC"></script>
@@ -36,6 +36,8 @@
 			});
 		</script>
 
+
+
 		<title>Nicola Borghi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -45,6 +47,23 @@
 	</head>
 	<body class="is-preload">
 		
+		<div id="cookie-banner">
+			<p>This website uses cookies and analytics to improve your experience. <a href="/privacy-policy.html" target="_blank" >Learn more</a></p>
+			<button id="accept-cookies" class="secondary">Ok</button>
+		</div>
+
+		<script>
+			// Check if the user has already accepted cookies
+			if (localStorage.getItem('cookiesAccepted') === 'true') {
+			document.getElementById('cookie-banner').style.display = 'none';
+			}
+
+			// Handle cookie acceptance
+			document.getElementById('accept-cookies').addEventListener('click', function() {
+			localStorage.setItem('cookiesAccepted', 'true');
+			document.getElementById('cookie-banner').style.display = 'none';
+			});
+		</script>
 		
 		<!-- Wrapper -->
 			<div id="wrapper">
@@ -196,7 +215,7 @@
 
 
 						<!-- Contact -->
-							<!-- <article id="contact">
+							<article id="contact">
 								<h2 class="major">Contact</h2>
 								<form method="post" action="https://formspree.io/mnqnpyej" enctype="multipart/form-data">
 									<div class="fields">
@@ -222,7 +241,7 @@
 									<li><a href="https://www.instagram.com/nicolaborghi/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 									<li><a href="https://www.facebook.com/NicoBorghi22" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li><li></li><li></li>
 								</ul>
-							</article> -->
+							</article>
 
 
 							<article id="books">

@@ -61,6 +61,7 @@ table {
 }
 
 body {
+	text-size-adjust: none;
 	-webkit-text-size-adjust: none;
 }
 
@@ -3613,4 +3614,46 @@ input, select, textarea {
 		}
 		
 
-		
+
+		#cookie-banner {
+			position: fixed;
+			bottom: 10px;
+			left: 10px;
+			max-width: 360px;
+			background-color: rgba(0, 0, 0, 0.8);
+			color: #fff;
+			box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+			padding: 15px;
+			border-radius: 8px;
+			font-family: Arial, sans-serif;
+			font-size: 14px;
+			z-index: 1000;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+		  }
+	  
+		  #cookie-banner p {
+			margin: 0;
+			padding: 0;
+			flex: 1;
+			font-size: 13px;
+		  }
+	  
+		  #cookie-banner a {
+			color: #1e90ff;
+			text-decoration: none;
+		  }
+	  
+		  #cookie-banner a:hover {
+			text-decoration: underline;
+		  }
+	  
+		  #cookie-banner button {
+			display: inline-block;
+			cursor: pointer;
+			margin-left: 10px;
+			color: inherit;
+			background: inherit;
+		  }
+
