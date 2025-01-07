@@ -22,7 +22,20 @@
 			var arxiv_includeSubjects=0;
 			//--></script>
 		<script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>
-	
+
+		<script>
+			document.addEventListener("DOMContentLoaded", () => {
+				// Check if the site has been visited
+				if (!localStorage.getItem("visited")) {
+					// Mark the site as visited
+					localStorage.setItem("visited", "true");
+				} else {
+					// If visited, remove the preload class
+					document.body.classList.remove("is-preload");
+				}
+			});
+		</script>
+
 		<title>Nicola Borghi</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
