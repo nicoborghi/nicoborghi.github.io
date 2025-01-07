@@ -60,7 +60,9 @@ Recipes from different online sources sorted by butter/total weight ratio. Refer
 
 👉 Press once to select a recipe, twice to deselect it. Desktop mode recommended.
 
-<iframe src="gaufre-plotly-cdn.html" frameborder="0" width="100%" height="710" scrolling="no" style="border:none;color-scheme: normal !important"></iframe>
+<iframe src="gaufre-plotly-cdn.html" title="plotlyIframe" frameborder="0" width="720px" height="720px" style="position: relative; border:none;color-scheme: normal !important;overflow-x: visible !important; overflow-y: hidden;"></iframe>
+
+
 
 
 
