@@ -1,0 +1,1 @@
+- Piero Camporesi, "La terra e la luna", Il Saggiatore (1989)

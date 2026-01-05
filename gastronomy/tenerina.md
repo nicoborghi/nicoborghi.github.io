@@ -16,8 +16,7 @@ The following table gives amounts to serve 10 (not too hungry) people. Mass: 400
 | Flour        | 50  | 0.25x  |
 | Milk         | 25  | 0.125x |
 
-Dark chocolate may contain 45-90% cocoa solids (>70% when 'extra dark'), the rest is mostly cocoa butter and sugar. You can play with the 'darkness' of chocolate, I like ~60% (e.g. 100g 50% + 100g 70%). There are flours and flours [📰][2], play also with this!
-
+Dark chocolate may contain 45-90% cocoa solids (>70% when 'extra dark'), the rest is mostly cocoa butter and sugar. You can play with the 'darkness' of chocolate, I like ~60% (e.g. 100g 50% + 100g 70%). The quality of chocolate is very important here. There are flours and flours [📰][2], play also with this!
 
 ## Method
 1. Break the chocolate and melt it a bain-marie or in microwave until smooth and glossy. *Make sure the temperature does not go over 120°C, this would alter the chocolate flavour*. Melt the butter into the hot chocolate, stir well and and let it cool.
@@ -32,6 +31,10 @@ Dark chocolate may contain 45-90% cocoa solids (>70% when 'extra dark'), the res
 
 ## Discussion
  - Sofia C. (2021, priv. comm.) points out that milk is not part of the "original recipe". My argument here is that with <3% in mass, the overall flavor should not be significantly impacted and is of second-order importance with respect to the choice of "good" ingredients. 
+- The amount of flour will significantly impact the texture of the cake. Less (or no) flour will make it more fudgy, more flour (e.g. 70g) will make it more cakey. 
+- The cake is supposed to be very dense and moist, almost undercooked in the middle (un bijou).
+- The way the sugar is incorporated - with egg yolks or with egg whites - will impact the texture. In the first case, tha cake will be more solid and compact, in the second case it will have a crustier fragile top.
+- You can decrease the amount of sugar to 150g if you prefer a "lighter" cake.
 
 
 <!-- ## References -->
