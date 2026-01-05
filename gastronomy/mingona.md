@@ -9,45 +9,43 @@ Regional variants include: Tuscan ("Castagnaccio": pine nuts, walnuts, raisins, 
 ## Ingredients
 The following table provides quantities suitable for serving 10 people with a moderate appetite. Total mass: 700 g
 
-| Component        | [v1] Q.ty (g) | [v2] Q.ty (g) |
-|------------------|---------------|---------------|
-| Chestnut flour   | 300           | 300           |
-| Water            | 350           | -             |
-| Milk             | -             | 350           |
-| Cocoa powder     | 15            | 15            | 
-| Seed/Olive oil   | 60            | 60            | 
-| Sugar (optional) | 30            | 30            | 
-| Salt             | 2             | 2             | 
+| Component        | [v1 water] Q.ty (g) | [v2 milk] Q.ty (g) |
+|------------------|---------------------|--------------------|
+| Chestnut flour   | 300                 | 300                |
+| Water            | 350                 | -                  |
+| Milk             | -                   | 350                |
+| Cocoa powder     | 15                  | 15                 | 
+| Seed oil         | 60                  | 60                 | 
+| Sugar (optional) | 30                  | 30                 | 
+| Salt             | 2                   | 2                  | 
 
 *Note: Traditional formulations exclude sugar, relying exclusively on the flour's inherent sweetness (≈20-25% simple sugars). Modern palates may prefer its inclusion.*
 
 ## Method
 
-1. **Flour preparation**: Sift the chestnut flour through a fine mesh to remove lumps and ensure uniform hydration.
+1. **Flour**: Sift the chestnut flour to remove lumps and to ensure uniform hydration.
 
-2. **Hydration phase**: Create a slurry by gradually incorporating the liquid to the flour while whisking continuously to obtain a smooth, viscous batter. *The flour-to-water ratio of approximately 1:1.2 is critical; excessive hydration results in separation, insufficient hydration yields a dense, non-cohesive product.* 
+2. **Hydration**: Create a slurry by gradually incorporating the liquid (water or milk) to the flour while whisking continuously to obtain a smooth, viscous-liquid batter.
 
-    - v1: use all the water (20–25 °C).
+    - v1: water, enhanced chestnut flavor.
 
-    - v2: use all the milk (20–25 °C).
-
-    - v1-2 gelatin: reserve ~50 g flour and ~70 g water. First mix these with hot water (80–90 °C) to make a smooth pre-gelatinized paste; then incorporate it into the cold-hydrated batter made with the remaining flour and water.
-
+    - v2: milk, more traditional cake taste.
 
 3. **Lipids**: Divide the oil into two parts: emulsify ~⅔ directly into the batter, and keep the remaining ~⅓ for the surface.
 
 4. **Flavors**: Add cocoa powder, salt, and optional sugar. Mix until completely dissolved.
 
-5. **Pan preparation and assembly**: Oil a 24–26 cm pan, ensuring the batter layer does not exceed 1–2 cm (traditional castagnaccio should not be thicker than 1 cm).
-Pour the batter, level the surface, and apply the remaining oil as a thin film
+5. **Pan preparation and assembly**: Oil a 24–26 cm pan. Pour the batter, level the surface, and apply the remaining oil as a thin film
 
-6. **Thermal processing**: Bake at 180 °C (convection) or 190 °C (static) for 35–40 minutes.Indicators of doneness: characteristic surface fissures, lightly browned edges, and an internal temperature around 85 °C.
+6. **Cooking**: Bake at 180 °C (convection) or 190 °C (static) for 35–40 minutes. Indicators of doneness: characteristic surface fissures, lightly browned edges.
 
 ## Discussion
 
-- **Textural considerations**: The absence of gluten networks and chemical leavening agents results in a dense, fudgy matrix. Internal structure depends on starch gelatinization and protein denaturation rather than gas cell stabilization.
+- Sadly, this is one of the latest conversations I had with my grandmother at the end of 2025. She used to prepare it with milk, adding two spoons of sweet cocoa powder, and covering it with a thin layer of oil before baking. This ensures the cake remains moist and prevents excessive drying of the surface. I personally prefer the water version, as it enhances the chestnut flavor.
 
-- **Cocoa integration**: Cocoa powder (2–5% w/w) is a modern domestic addition. Its bitter, aromatic alkaloids complement the natural tannins of chestnut flour without altering the cake’s traditional identity (... at least this is what Anthropic/Claude/Opus 4.1 says).
+- In my hometown, a denser version of this batter is used to prepare *ciaciar* (fried chestnut flour pancakes). They are typically prepared for the 6th of January (Epiphany) celebrations.
+
+- **Textural considerations**: The absence of gluten networks and chemical leavening agents results in a dense, fudgy matrix. Internal structure depends on starch gelatinization and protein denaturation rather than gas cell stabilization.
 
 
 <!-- ## References -->
